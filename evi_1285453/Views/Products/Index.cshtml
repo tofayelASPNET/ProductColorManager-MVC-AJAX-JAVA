@@ -1,0 +1,63 @@
+﻿
+@model IEnumerable<evi_1285453.Models.Product>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="d-flex justify-content-end">
+    @Html.ActionLink("Add New Product", "Create", null, new { @class = "btn btn-primary btn-sm crBtn my-3 px-4" })
+</div>
+
+<div>
+    @foreach (var product in Model)
+    {
+        <div class="card mb-2">
+            <div class="card-header d-flex justify-content-between">
+                <div>
+                    <img src="@product.Image" width="32" style="border-radius:6px;" />
+                    <label class="me-2">Product Name: <strong>@Html.DisplayFor(x => product.PName)</strong></label>
+                    <label class="me-2">Price: <strong>@Html.DisplayFor(x => product.Price)</strong></label>
+                    <label class="me-2">P Date: <strong>@Html.DisplayFor(x => product.Pdate)</strong></label>
+                    <label class="me-2">Available: <strong>@Html.DisplayFor(x => product.IsAviable)</strong></label>
+                </div>
+                <div>
+                    <button class="btn btn-success btn-sm edBtn" type="button" data-id="@product.PId">Edit</button>
+                    @Html.ActionLink("Delete", "Delete", null, new { id = product.PId }, new { @class = "btn btn-danger btn-sm" })
+                </div>
+            </div>
+            <div class="card-body">
+                <table class="table table-bordered text-center">
+                    <thead class="table-primary">
+                        <tr>
+                            <th>Color Id</th>
+                            <th>Color Name</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var i in product.Details)
+                        {
+                            <tr>
+                                <td>@i.Color.CId</td>
+                                <td>@i.Color.CName</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    }
+</div>
+
+
+
+
+<section class="mcon" style="display:none;">
+    <div class="mbod p-5">
+        <div class="macon"></div>
+        <hr />
+        <div class="modal-footer">
+            <button class="btn btn-danger clbtn">Close</button>
+        </div>
+    </div>
+</section>
+

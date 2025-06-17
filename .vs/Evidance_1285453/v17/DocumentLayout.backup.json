@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|solutionrelative:evi_1285453\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|solutionrelative:evi_1285453\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|solutionrelative:evi_1285453\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|solutionrelative:evi_1285453\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|f:\\all project\\1285453_mvc_codefirst_singlepage_ajax_java\\evi_1285453\\models\\dbmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|solutionrelative:evi_1285453\\models\\dbmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|solutionrelative:evi_1285453\\models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|solutionrelative:evi_1285453\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\migrations\\202503061816561_scripta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|solutionrelative:evi_1285453\\migrations\\202503061816561_scripta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|solutionrelative:evi_1285453\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|solutionrelative:evi_1285453\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\views\\products\\addcolor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4897F25-246E-4A75-978A-7146CAF29076}|evi_1285453\\evi_1285453.csproj|solutionrelative:evi_1285453\\views\\products\\addcolor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Web.config",
+              "RelativeDocumentMoniker": "evi_1285453\\Web.config",
+              "ToolTip": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Web.config",
+              "RelativeToolTip": "evi_1285453\\Web.config",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-09T13:03:12.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddColor.cshtml",
+              "DocumentMoniker": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Views\\Products\\AddColor.cshtml",
+              "RelativeDocumentMoniker": "evi_1285453\\Views\\Products\\AddColor.cshtml",
+              "ToolTip": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Views\\Products\\AddColor.cshtml",
+              "RelativeToolTip": "evi_1285453\\Views\\Products\\AddColor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T11:25:21.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "evi_1285453\\Views\\Products\\Create.cshtml",
+              "ToolTip": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "evi_1285453\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwDEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T06:21:18.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbModels.cs",
+              "DocumentMoniker": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Models\\DbModels.cs",
+              "RelativeDocumentMoniker": "evi_1285453\\Models\\DbModels.cs",
+              "ToolTip": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Models\\DbModels.cs",
+              "RelativeToolTip": "evi_1285453\\Models\\DbModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:40:33.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "evi_1285453\\Views\\Products\\Index.cshtml",
+              "ToolTip": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "evi_1285453\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T06:02:22.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductVm.cs",
+              "DocumentMoniker": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Models\\ViewModels\\ProductVm.cs",
+              "RelativeDocumentMoniker": "evi_1285453\\Models\\ViewModels\\ProductVm.cs",
+              "ToolTip": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Models\\ViewModels\\ProductVm.cs",
+              "RelativeToolTip": "evi_1285453\\Models\\ViewModels\\ProductVm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:57:26.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "evi_1285453\\Controllers\\ProductsController.cs",
+              "ToolTip": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "evi_1285453\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAADwv4sAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:02:08.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Site.css",
+              "DocumentMoniker": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Content\\Site.css",
+              "RelativeDocumentMoniker": "evi_1285453\\Content\\Site.css",
+              "ToolTip": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Content\\Site.css",
+              "RelativeToolTip": "evi_1285453\\Content\\Site.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-07T06:24:52.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "evi_1285453\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "evi_1285453\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAACUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T06:40:54.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "202503061816561_ScriptA.cs",
+              "DocumentMoniker": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Migrations\\202503061816561_ScriptA.cs",
+              "RelativeDocumentMoniker": "evi_1285453\\Migrations\\202503061816561_ScriptA.cs",
+              "ToolTip": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Migrations\\202503061816561_ScriptA.cs",
+              "RelativeToolTip": "evi_1285453\\Migrations\\202503061816561_ScriptA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T08:54:05.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "evi_1285453\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\All Project\\1285453_MVC_CodeFirst_SinglePage_Ajax_java\\evi_1285453\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "evi_1285453\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwD4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T05:59:46.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
